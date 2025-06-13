@@ -1,6 +1,6 @@
 # IDE
 .vscode/
-
+.idea/*
 # CACHE
 **/__pycache__/**
 .pytest_cache
